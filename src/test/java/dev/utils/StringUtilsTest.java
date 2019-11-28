@@ -3,7 +3,12 @@ package dev.utils;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+/**
+ * 
+ * @author fla
+ * Réalisation d'une classe de tests unitaires
+ * Couvrez un maximum d’exemples (i.e. cas de tests)
+ */
 public class StringUtilsTest {
 
 	@Test
